@@ -2,4 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Use the left arrow to go back!
+🍒 *If life is a bowl of cherries, what am I doing in the pits?* 🍒
+
+Use the left ⬅️ arrow to go back!
